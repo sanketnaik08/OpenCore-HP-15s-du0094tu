@@ -1,4 +1,4 @@
-# OpenCore Configuration for HP 15s-du0094tu + macOS Ventura
+# OpenCore Configuration for HP 15s-du0094tu + macOS Ventura/Sequoia
 
 This is a complete OpenCore EFI configuration for running macOS Ventura on the **HP 15s-du0094tu** laptop with **Intel Core i3-8145U (Whiskey Lake)** processor.
 
@@ -8,8 +8,8 @@ This is a complete OpenCore EFI configuration for running macOS Ventura on the *
 - **Processor:** Intel Core i3-8145U (Whiskey Lake, 8th Gen)
 - **GPU:** Intel UHD Graphics 620
 - **RAM:** 8 GB DDR4
-- **Storage:** 1 TB HDD
-- **Target OS:** macOS Ventura (13.x)
+- **Storage:** 256 GB SSD
+- **Target OS:** macOS Ventura/Sequoia (13.x/14.x)
 - **SMBIOS:** MacBookPro15,2
 
 ## Quick Start
